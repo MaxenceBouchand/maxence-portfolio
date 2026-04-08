@@ -462,3 +462,4 @@ footer {
     padding-top: 40px;
   }
 }
+body { outline: 5px solid red; }
